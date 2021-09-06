@@ -21,10 +21,10 @@ createServer({
         },
         {
           id: 2,
-          title: 'Internet',
+          title: 'Aluguel',
           type: 'withdraw',
-          category: 'Conta',
-          amount: 150,
+          category: 'Moradia',
+          amount: 800,
           createdAt: new Date('2021-02-15 10:00:00')
         }
       ]
